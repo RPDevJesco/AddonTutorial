@@ -1,0 +1,8 @@
+## Title: AddonTutorial
+## Author: GameDevMadeEasy
+## Version: 0.0.1
+## SavedVariablesPerCharacter: 
+## Notes: Tutorial on creating addons
+
+HunterPetFood.lua
+HunterPetFoodExpanded.lua
